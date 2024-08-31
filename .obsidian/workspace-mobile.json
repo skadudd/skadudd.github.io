@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/테스트.md",
+                "file": "template/post.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/테스트.md",
+            "file": "template/post.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/테스트.md",
+            "file": "template/post.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/테스트.md"
+            "file": "template/post.md"
           }
         }
       }
@@ -135,8 +135,8 @@
   },
   "active": "a0d5727629faeb42",
   "lastOpenFiles": [
-    "template/post.md",
     "_posts/테스트.md",
+    "template/post.md",
     "테스트.md",
     "_posts/2023-03-14-이항분포 문제풀이.md",
     "template",
