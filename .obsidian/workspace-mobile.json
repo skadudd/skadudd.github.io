@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/post.md",
+                "file": "_posts/2024-09-01-테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "template/post.md",
+            "file": "_posts/2024-09-01-테스트.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "template/post.md",
+            "file": "_posts/2024-09-01-테스트.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "template/post.md"
+            "file": "_posts/2024-09-01-테스트.md"
           }
         }
       }
@@ -135,7 +135,8 @@
   },
   "active": "a0d5727629faeb42",
   "lastOpenFiles": [
-    "_posts/테스트.md",
+    "_posts/2023-03-27-생존 분석 - 카플란 마이어 추정.md",
+    "_posts/2024-09-01-테스트.md",
     "template/post.md",
     "테스트.md",
     "_posts/2023-03-14-이항분포 문제풀이.md",
@@ -164,7 +165,6 @@
     "docs/CONTRIBUTING.md",
     "docs/CODE_OF_CONDUCT.md",
     "docs/SECURITY.md",
-    "_posts/2023-03-27-생존 분석 - 카플란 마이어 추정.md",
     "_posts/2023-03-29-생존 분석 로그 순위 검정.md",
     "_posts/2023-06-01-시계열 분석 - SQL로 시작하는 데이터 분석 MySQL.md",
     "_posts/2023-03-29-생존분석 - 카플란 마이어 예제.md",
