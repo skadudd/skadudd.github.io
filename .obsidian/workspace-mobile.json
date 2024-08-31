@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "12ae55525b7e760f",
+    "type": "split",
+    "children": [
+      {
+        "id": "67390912a3900b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0d5727629faeb42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d288259df98a2f73",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2c7692bfbfc7aaba",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "153534f2f1af611e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "057f43cf63e3bbe1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2e654b3e36f86260",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8e863debc57c2743",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e0bd585787cd0d3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_posts/테스트.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c1d33987c063bd88",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_posts/테스트.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8478c25bc5986b1f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_posts/테스트.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "a0d5727629faeb42",
+  "lastOpenFiles": [
+    "template/post.md",
+    "_posts/테스트.md",
+    "테스트.md",
+    "_posts/2023-03-14-이항분포 문제풀이.md",
+    "template",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff",
+    "assets/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff",
+    "assets/lib/fontawesome-free/README.md",
+    "assets/img/components/pngegg.png",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/img/favicons/mstile-150x150.png",
+    "assets/img/favicons/android-chrome-512x512.png",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "assets/img/favicons/safari-pinned-tab.svg",
+    "assets/img/favicons/favicon-16x16.png",
+    "assets/lib/README.md",
+    "README.md",
+    "docs/CHANGELOG.md",
+    "docs/CONTRIBUTING.md",
+    "docs/CODE_OF_CONDUCT.md",
+    "docs/SECURITY.md",
+    "_posts/2023-03-27-생존 분석 - 카플란 마이어 추정.md",
+    "_posts/2023-03-29-생존 분석 로그 순위 검정.md",
+    "_posts/2023-06-01-시계열 분석 - SQL로 시작하는 데이터 분석 MySQL.md",
+    "_posts/2023-03-29-생존분석 - 카플란 마이어 예제.md",
+    "_posts/2023-06-15-프로그래머스 SQL kit - 희소 시간 테이블 처리.md",
+    "_posts/2023-06-15-프로그래머스 SQL kit - 상품을 구매한 회원 비율 구하기.md",
+    "_posts/2023-03-20-Tableau 스타벅스와 이디야 간 상관관계.md",
+    "_posts/2024-03-28-블로그 포스팅 확률형 게임의 보상 모델을 시뮬레이션하자.md",
+    "_tabs/categories.md",
+    "_tabs/archives.md",
+    "_tabs/about.md",
+    "_tabs/tags.md"
+  ]
+}
