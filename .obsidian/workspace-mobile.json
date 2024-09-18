@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-09-01-테스트.md",
+                "file": "_posts/2024-09-18 인풋과 아웃풋 비중 설정과 내가 가고자 하는 방향 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2024-09-01-테스트.md",
+            "file": "_posts/2024-09-18 인풋과 아웃풋 비중 설정과 내가 가고자 하는 방향 설정.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "_posts/2024-09-01-테스트.md",
+            "file": "_posts/2024-09-18 인풋과 아웃풋 비중 설정과 내가 가고자 하는 방향 설정.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "_posts/2024-09-01-테스트.md"
+            "file": "_posts/2024-09-18 인풋과 아웃풋 비중 설정과 내가 가고자 하는 방향 설정.md"
           }
         }
       }
@@ -135,8 +135,9 @@
   },
   "active": "a0d5727629faeb42",
   "lastOpenFiles": [
+    "어떤 데이터 겨분석가가 될 것인가?.md",
+    "_posts/2024-09-18 인풋과 아웃풋 비중 설정과 내가 가고자 하는 방향 설정.md",
     "_posts/2023-03-27-생존 분석 - 카플란 마이어 추정.md",
-    "_posts/2024-09-01-테스트.md",
     "template/post.md",
     "테스트.md",
     "_posts/2023-03-14-이항분포 문제풀이.md",
