@@ -14,7 +14,7 @@ order: 4
     - 미래지향, 발상, 전략, 행동, 최상화 [검사지 링크](https://drive.google.com/file/d/1CZ-l46277B2iSWigZmuS1E6gtimGTrpE/view?usp=sharing)
 
 ## 포트폴리오
->- [이력서](https://drive.google.com/file/d/1NmohiwdlHBOgUXQButG-yGJSYCT3Vtx5/view?usp=drive_link)
+>- [이력서](https://drive.google.com/file/d/1zmHTckvraC5lw6ZemQ4SIilyqdON7fvj/view?usp=sharing)
 >- [원페이저 포트폴리오](https://drive.google.com/file/d/1Sh2dmh1A6iJ7KuUM8Dg2lpbBvIElaVK_/view?usp=drive_link)
 >- [딥러닝 활용 프로젝트 장표](https://drive.google.com/file/d/1xdSYDRWfCK1aVT8bA61yfiCvz7HBJ5BL/view)
 >   - [깃허브](https://github.com/skadudd/electricity_demand_RNN)
