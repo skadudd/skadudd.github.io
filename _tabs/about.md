@@ -10,7 +10,8 @@ order: 4
 - 평생 분석하고 예측하면서 살면 행복하겠다는 생각을 했고, 지금은 발로소득 프로젝트에서 데이터 분석가로 근무하고 있습니다.
 - 문제를 딥다이브해서 이리저리 뜯어보고 해결하는 행위를 좋아합니다.
 - 수학의 즐거움 채널에서 수학 스터디 하는 것이 취미입니다.
-
+- 갤럽의 CliftonStrengths 강점 분석에 따라 5가지 성향적 강점을 가지고 있습니다. 
+    - 미래지향, 발상, 전략, 행동, 최상화 [검사지 링크](https://drive.google.com/file/d/1CZ-l46277B2iSWigZmuS1E6gtimGTrpE/view?usp=sharing)
 
 ## 포트폴리오
 >- [이력서](https://docs.google.com/document/d/13MmElWq1O9WHr3OgUKaL9YkzSrA88eC8/edit?usp=sharing&ouid=115111613190533228951&rtpof=true&sd=true)
