@@ -13,8 +13,8 @@ order: 4
 
 
 ## 포트폴리오
->- [이력서](https://drive.google.com/file/d/1F1JkM1GukRQy9tTK4Dl3dRB255uJmxYR/view?usp=sharing)
->- [원페이저 포트폴리오](https://drive.google.com/file/d/1SpFbAGC7I4EHZ3iRctsyf0n-ZpXjc8e2/view?usp=sharing)
+>- [이력서](https://docs.google.com/document/d/13MmElWq1O9WHr3OgUKaL9YkzSrA88eC8/edit?usp=sharing&ouid=115111613190533228951&rtpof=true&sd=true)
+>- [원페이저 포트폴리오](https://drive.google.com/file/d/1g4L9HFamAhe5cbQDzcQiFKucd3VyAIMy/view?usp=drive_link)
 >- [딥러닝 활용 프로젝트 장표](https://drive.google.com/file/d/1xdSYDRWfCK1aVT8bA61yfiCvz7HBJ5BL/view)
 >   - [깃허브](https://github.com/skadudd/electricity_demand_RNN)
 >- [머신러닝 활용 프로젝트 장표](https://drive.google.com/file/d/1tN_KIYaarS_6UvvDP8wjQq36cyVDgkkM/view)
